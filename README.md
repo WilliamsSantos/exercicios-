@@ -1,3 +1,10 @@
 # exercicios-PHP
 ### Crud simples
- - Proximo passo colocar um sistema de autenticação simples
+ #### Ferramentas e Tecnologias utilizadas até o momento:
+  
+  - Boostrap 4.
+  - PHP Puro.
+  - MySQL.
+  
+ #### Proximo passo:
+  - implementar sistema de autenticação simples.
