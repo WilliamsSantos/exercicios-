@@ -2,7 +2,7 @@
 ### Crud simples
  #### Ferramentas e Tecnologias utilizadas até o momento:
   
-  - Boostrap 4.
+  - Bootstrap 4.
   - PHP Puro.
   - MySQL.
   
