@@ -6,5 +6,5 @@
   - PHP Puro.
   - MySQL.
   
- #### Proximo passo:
+ #### Próximo passo:
   - implementar sistema de autenticação simples.
